@@ -1,0 +1,32 @@
+{
+  "name": "express-route-directory",
+  "description": "This project simply re-directs to the new version 'Modulizer'.",
+  "version": "2.0.2",
+  "author": {
+    "name": "Adam Henson",
+    "email": "adamhenson1979@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/adamhenson/express-route-directory/issues"
+  },
+  "engines": {
+    "node": ">= 4.4.1"
+  },
+  "homepage": "https://github.com/adamhenson/express-route-directory.git",
+  "keywords": [
+    "modules",
+    "directory",
+    "architecture",
+    "node",
+    "express",
+    "routes",
+    "routing",
+    "router"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamhenson/express-route-directory.git"
+  }
+}
